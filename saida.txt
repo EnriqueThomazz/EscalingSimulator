@@ -1,0 +1,76 @@
+Tempo Corrente: 0
+Processo em Execucao - PID: 0, Nome: Chrome, Prioridade: 1, Tempo Restante: 20
+Fila de Prontos
+PID: 1, Nome: Explorer, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+____________________________________________________________________________________________________
+Tempo Corrente: 20
+Processo em Execucao - PID: 1, Nome: Explorer, Prioridade: 1, Tempo Restante: 20
+Fila de Prontos
+PID: 3, Nome: Steam, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: Discord, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+____________________________________________________________________________________________________
+Tempo Corrente: 30
+Processo em Execucao - PID: 3, Nome: Steam, Prioridade: 2, Tempo Restante: 30
+Fila de Prontos
+PID: 2, Nome: Discord, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+PID: 1, Nome: Explorer, Tempo Admissao: 0, Prioridade: 1, Tempo Restante IO: 5
+____________________________________________________________________________________________________
+Tempo Corrente: 35
+Processo em Execucao - PID: 1, Nome: Explorer, Prioridade: 1, Tempo Restante: 10
+Fila de Prontos
+PID: 2, Nome: Discord, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1
+PID: 3, Nome: Steam, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+____________________________________________________________________________________________________
+Tempo Corrente: 45
+Processo em Execucao - PID: 3, Nome: Steam, Prioridade: 2, Tempo Restante: 25
+Fila de Prontos
+PID: 2, Nome: Discord, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+____________________________________________________________________________________________________
+Tempo Corrente: 70
+Processo em Execucao - PID: 2, Nome: Discord, Prioridade: 1, Tempo Restante: 30
+Fila de Prontos
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+____________________________________________________________________________________________________
+Tempo Corrente: 75
+Processo em Execucao - PID: 4, Nome: Gmail_Daemon, Prioridade: 1, Tempo Restante: 52
+Fila de Prontos
+Fila de Espera
+PID: 2, Nome: Discord, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 8
+____________________________________________________________________________________________________
+Tempo Corrente: 78
+Processo em Execucao - PID: 2, Nome: Discord, Prioridade: 1, Tempo Restante: 25
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 33
+____________________________________________________________________________________________________
+Tempo Corrente: 93
+Processo em Execucao - PID: 4, Nome: Gmail_Daemon, Prioridade: 1, Tempo Restante: 51
+Fila de Prontos
+Fila de Espera
+PID: 2, Nome: Discord, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 5
+____________________________________________________________________________________________________
+Tempo Corrente: 98
+Processo em Execucao - PID: 2, Nome: Discord, Prioridade: 1, Tempo Restante: 10
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: Gmail_Daemon, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 16
+____________________________________________________________________________________________________
+Tempo Corrente: 114
+Processo em Execucao - PID: 4, Nome: Gmail_Daemon, Prioridade: 1, Tempo Restante: 50
+Fila de Prontos
+Fila de Espera
+____________________________________________________________________________________________________
+Tempo Corrente: 164
+Fila de Prontos
+Fila de Espera
+____________________________________________________________________________________________________

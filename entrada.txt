@@ -1,0 +1,5 @@
+0 Chrome 1 20
+0 Explorer 1 10 5 10
+5 Discord 1 5 3 15 5 10
+3 Steam 2 30
+10 Gmail_Daemon 1 5 1 15 1 20 50
